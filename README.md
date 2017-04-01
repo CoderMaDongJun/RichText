@@ -49,4 +49,4 @@ self.contentView.frame = (CGRect){point,size};
 self.contentView.backgroundColor = [UIColor lightGrayColor];
 ```
 5、效果图
-https://github.com/CoderMaDongJun/MDJRichTextTool/blob/master/1.png
+https://github.com/CoderMaDongJun/RichText/blob/master/1.png
